@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="controls.css" />
+    <script type="text/javascript" src="jquery-3.7.1.min.js"></script>
+    <script type="text/javascript" src="controls.js"></script>
+</head>
+<body>
+    <form>
+        <fieldset>
+            <legend>Customer data</legend>
+
+            <label for="name">Name</label>
+            <input id="name" type="text" class="mandatory" />
+
+            <label for="surname">Surname</label>
+            <input id="surname" type="text" class="mandatory" />
+
+            <label for="address">Address</label>
+            <input id="address" type="text" />
+
+            <button type="button" onclick="validate()">Hello</button>
+            <button type="button" onclick="enable()">Enable/Disable</button>
+            <button type="reset">Clear all</button>
+        </fieldset>
+    </form>
+</body>
+</html>
