@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "id_manager": 1,
+    "name": "John",
+    "surname": "Smith",
+    "position": "shop assistant"
+  },
+  {
+    "id": 1,
+    "name": "Jane",
+    "surname": "Miller",
+    "position": "manager"
+  },
+  {
+    "id": 2,
+    "id_manager": 1,
+    "name": "Max",
+    "surname": "Brown",
+    "position": "shop assistant"
+  }
+]

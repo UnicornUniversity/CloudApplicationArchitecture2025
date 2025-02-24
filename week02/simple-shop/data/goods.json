@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Apple",
+    "category": 0
+  },
+  {
+    "name": "Kiwi",
+    "category": 0
+  },
+  {
+    "name": "Chocolate bar",
+    "category": 1
+  },
+  {
+    "name": "Cola",
+    "category": 2
+  },
+  {
+    "name": "Juice",
+    "category": 2
+  }
+]

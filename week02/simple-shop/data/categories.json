@@ -1,0 +1,14 @@
+[
+  {
+    "name": "fruits",
+    "value": 0
+  },
+  {
+    "name": "snacks",
+    "value": 1
+  },
+  {
+    "name": "drinks",
+    "value": 2
+  }
+]
